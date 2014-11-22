@@ -1,0 +1,97 @@
+body {
+	margin: 0;
+	background: #f3f3f3 url('cream_pixels.png') repeat;
+	border-top: 5px solid #29AADF;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	color: #444;
+	font-weight: 700;
+	border-left: 5px solid #29AADF;
+	padding: 0 0 0 10px;
+	font-size: 28px;
+}
+
+header {
+	margin: 0 0 25px 0;
+	border-bottom: solid 1px #ccc;
+}
+
+#wrap{
+	width: 100%;
+	margin: 0 auto;
+	position: relative;
+}
+
+#button {
+	padding: 10px;
+	color: #fff;
+	background: #333;
+	font-family: 'Roboto', sans-serif;
+	border-left: 5px solid #29AADF;
+	cursor: pointer;
+	border-radius: 0 5px 5px 0;
+	width: 120px;
+	height: 23px;
+	float: right;
+	margin: 28px 25px 0px 0;
+}
+
+#button:hover {
+	background: #252525;
+}
+
+#dashboard {
+	width: 80%;
+	height: 100px;
+	background: #e9feee;
+	padding: 10px;
+	margin: 0 auto;
+	margin-top: 20px;
+	border: 1px solid #eee;
+}
+
+#time {
+	font-size: 18px;
+	color: #333;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	float: left;
+	width: 40%;
+	padding: 10px 0 0 5px;
+}
+
+#time p {
+	font-size: 12px;
+}
+
+#wrap .block2 {
+	display: none;
+}
+
+@media (min-width: 960px){
+	#wrap{
+		width: 1080px;
+		margin: 0 auto;
+	}
+
+	#wrap .block, #wrap .block2 {
+		display: inline-block;
+		margin: 12px;
+	}
+
+	#time {
+		font-size: 25px;
+		padding: 10px;
+	}
+
+	#dashboard {
+		width: 93%;
+	}
+}
+
+.fs-icon-l {width: 512px; height: 512px;}
+.fs-icon-m {width: 256px; height: 256px;}
+.fs-icon-s {width: 128px; height: 128px;}
+.fs-icon-xs {width: 64px; height: 64px;}
