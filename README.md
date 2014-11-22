@@ -32,6 +32,7 @@ Customizations
 		$el			: $('div.fs-cast'), // element containing icons. Must be a class.
 		iconsPath	: 'icons/' // location where sprite of icons stored.
 	}
+```
 
 ###### Icon size.
 
