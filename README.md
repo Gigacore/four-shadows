@@ -21,10 +21,34 @@ Setup
 	.fs-icon-xs {width: 64px; height: 64px;}
 ```
 
+Customizations
+===================
+###### Change settings as per requirement in ```fourshadows.js```.
+
+```JS
+	fourShadows.settings = {
+		dimension	: 512, 	// in px. Height and width should be the same.
+		defaultTime	: 5, 	// in 24Hr. Casts shadow to standard 5 o'clock if something goes wrong.
+		$el			: $('div.fs-cast'), // element containing icons. Must be a class.
+		iconsPath	: 'icons/' // location where sprite of icons stored.
+	}
+
+###### Icon size.
+
+Use the class accordingly in the markup:
+
+```.fs-icon-l``` 	: 512 x 512
+```.fs-icon-m```	: 256 x 256
+```.fs-icon-s```	: 128 x 128
+```.fs-icon-xs```	: 64 x 64
+
+These dimensions can be altered any time. But it would also require you to change properties in CSS for corresponding classes.
+
 Demo
 ===================
 http://gigacore.github.io/fs/demo/
 
+License
 ===================
 Four Shadows is Licensed under MIT.
 
