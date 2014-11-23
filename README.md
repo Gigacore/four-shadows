@@ -57,8 +57,6 @@ http://gigacore.github.io/fs/demo/
 
 License
 ===================
-Four Shadows is Licensed under MIT.
+The MIT License (MIT)
 
-Author
-===================
-Santhosh S
+Copyright (c) 2014 Santhosh Sundar
