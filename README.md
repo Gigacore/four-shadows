@@ -21,7 +21,7 @@ Setup
 	<div class="fs-icon-l fs-cast" data-icon="filename.png"></div>
 ```
 
-######3. Using sample sprite or the placeholder sprite that's provided in the package, create new ones. Ensure the direction of shadows cast as per the sample and to be placed in same order.  
+######3. Using sample or the placeholder sprite that's provided in the package, create new ones. Ensure the direction of shadows cast as per the sample and to be placed in same order.  
 
 ######4. Point to the directory where image assets are stored in ```fourshadows.js``` settings.
 
