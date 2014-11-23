@@ -1,7 +1,7 @@
 Four Shadows
 ============
 
-An approach to replace conventional 5 o'clock shadow for iconography with intelliegent time-aware algorithm driven shadows using simple CSS sprites. The direction of shadow changes according to the time of the day and based on the direction of the 'hour hand' of an analog clock. This results in nature and enriched user experience on web. 
+An approach to replace conventional 5 o'clock shadow for iconography with intelliegent time-aware algorithm driven shadows using simple CSS sprites. The direction of shadow changes according to the time of the day and based on the direction of the 'hour hand' of an analog clock. This results in natural and enriched user experience on web. 
 
 Setup
 ============
