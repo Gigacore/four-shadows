@@ -57,7 +57,7 @@ The script is written with performance in mind. And it weighs < 2 KB, under 30 l
 
 Demo
 ===================
-http://gigacore.github.io/fs/demo/
+http://gigacore.github.io/demos/fs/
 
 License
 ===================
