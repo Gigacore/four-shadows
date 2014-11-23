@@ -10,7 +10,7 @@ Design Concept
 ==============
 ![Screenshot](http://i.imgur.com/rdlUZv3.jpg)
 
-It is a simple concept derived from the evolution where time was once read looking into the direction of the shadow cast from a pole and inspired by the latest iconography trend of long 5 o'clock shadows casts. Design must no longer be static. It needs to relate to real-world entity that humans are accustomed to over centuries. ```</enoughsaid>```
+It is a simple concept derived from the evolution where time was once read looking into the direction of the shadow cast from a pole and inspired by the latest iconography trend of long 5 o'clock shadows. Design must no longer be static. It needs to relate to real-world entity that humans are accustomed to over centuries. ```</enoughsaid>```
 
 Setup
 ============
