@@ -1,12 +1,14 @@
 Four Shadows
 ============
 
-An approach to replace conventional 5 o'clock shadow for iconography with intelliegent time-aware shadow. The direction of shadow changes based on the direction of the 'hour hand' of an analog clock. This gives user an enriched and nature experience. 
+An approach to replace conventional 5 o'clock shadow for iconography with intelliegent time-aware algorithm driven shadows using simple CSS sprites. The direction of shadow changes according to the time of the day and based on the direction of the 'hour hand' of an analog clock. This results in nature and enriched user experience on web. 
+
+The script is written with performance in mind. It weighs < 2 KB and under 40 lines excluding comments.
 
 Setup
 ============
 ######1. Include jQuery and ```fourshadows.js``` into your html file.
-######2. Place as many icons you need in your HTML using:
+######2. Place as many icons you need in your HTML with filename in ```data-icon``` attribute:
 
 ```HTML
 	<div class="fs-icon-l fs-cast" data-icon="filename.png"></div>
