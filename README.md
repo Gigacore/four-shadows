@@ -12,7 +12,11 @@ Setup
 	<div class="fs-icon-l fs-cast" data-icon="filename.png"></div>
 ```
 
-######3. Include this in your CSS file:
+######3. Using sample sprite image, create new ones. Ensure the direction of shadows cast as per the sample and to be placed in same order.  
+
+######4. Point to the directory where image assets are stored in ```fourshadows.js``` settings.
+
+######5. Include this in your CSS file:
 ```CSS
 	.fs-icon-l {width: 512px; height: 512px;}
 	.fs-icon-m {width: 256px; height: 256px;}
@@ -43,8 +47,9 @@ Use the class accordingly in the markup:
 
 These dimensions can be altered any time. But it would also require you to change properties in CSS for corresponding classes.
 
-###### Performance.
-The script is written with performance in mind. It weighs < 2 KB and under 40 lines excluding comments.
+Performance.
+===================
+The script is written with performance in mind. And it weighs < 2 KB, under 30 lines excluding comments. I recommend using compressed version for your production site.
 
 Demo
 ===================
