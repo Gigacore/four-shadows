@@ -58,7 +58,7 @@ These dimensions can be altered any time. But it would also require you to chang
 
 Performance
 ===================
-The script is written with performance in mind. And it weighs < 2 KB, under 30 lines excluding comments. I recommend using compressed version for your production site.
+The script is written with performance in mind. And it weighs < 2 KB, under 30 lines excluding comments. I recommend using minified version for your production site.
 
 Demo
 ===================
