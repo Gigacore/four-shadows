@@ -28,7 +28,7 @@ Setup
 	.fs-icon-xs {width: 64px; height: 64px;}
 ```
 
-Customizations.
+Customizations
 ===================
 ###### Change settings as per requirement in ```fourshadows.js```.
 
@@ -41,7 +41,7 @@ Customizations.
 	}
 ```
 
-###### Icon sizes.
+###### Icon sizes
 Use the class accordingly in the markup:
 
  -  ```.fs-icon-l``` 	- 512 x 512 
@@ -51,7 +51,7 @@ Use the class accordingly in the markup:
 
 These dimensions can be altered any time. But it would also require you to change properties in CSS for corresponding classes.
 
-Performance.
+Performance
 ===================
 The script is written with performance in mind. And it weighs < 2 KB, under 30 lines excluding comments. I recommend using compressed version for your production site.
 
