@@ -62,6 +62,10 @@ Demo
 ===================
 http://gigacore.github.io/demos/fs/
 
+Future Improvements
+===================
+This project is an intital draft. Feel free to pitch in your ideas, suggestions to improve, comment, critique, debate on the use of the plugin etc. The code is open source, hence you are most welcome to fork / to come up with derivative work with better idea / design concepts. 
+
 License
 ===================
 The MIT License (MIT)
