@@ -64,7 +64,7 @@ http://gigacore.github.io/demos/fs/
 
 Future Improvements ![Screenshot](http://google.github.io/material-design-icons/action/svg/ic_trending_up_24px.svg)
 ===================
-This project is an intital draft. Feel free to pitch in your ideas, suggestions to improve, comment, critique, debate on the use of the plugin etc. The code is open source, hence you are most welcome to fork / to come up with derivative work with better idea / design concepts. 
+This project is an intital draft. Feel free to pitch in your ideas, suggestions to improve, comment, critique, debate on the use of the plugin etc. The code is open source, hence you are most welcome to fork / to come up with derivative work, having better idea / design concepts. Cheers!
 
 License
 ===================
