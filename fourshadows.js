@@ -30,7 +30,7 @@
 		hour >= 00 && hour <= 03 || hour >= 13 ? $el.css(bp, '0 0') : defaultCast;							// 1 o'clock shadow				 
 		hour >= 04 && hour <= 06 || hour >= 16 ? $el.css(bp, dimension + ' 0') : defaultCast;				// 5 o'clock shadow
 		hour >= 06 && hour <= 09 || hour >= 18 ? $el.css(bp, dimension + ' ' + dimension) : defaultCast;	// 7 o'clock shadow
-		hour >= 09 && hour <= 12 || hour >= 21 ? $el.css(bp, '0 ' + dimension) : defaultCast;				// 10 o'clock shadow
+		hour >= 09 && hour <= 12 || hour >= 21 ? $el.css(bp, '0 ' + dimension) : defaultCast;				// 11 o'clock shadow
 	}
 
 	// Initialization.
