@@ -12,18 +12,18 @@ It is a simple concept derived from the evolution where time was once read looki
 
 Setup
 ============
-######1. Include jQuery and ```fourshadows.js``` into your html file.
-######2. Place as many icons you need in your HTML with _filename_ in ```data-icon``` attribute:
+###### 1. Include jQuery and ```fourshadows.js``` into your html file.
+###### 2. Place as many icons you need in your HTML with _filename_ in ```data-icon``` attribute:
 
 ```HTML
 	<div class="fs-icon-l fs-cast" data-icon="filename.png"></div>
 ```
 
-######3. Using sample or the placeholder sprite that's provided in the package, create new ones. Ensure the direction of shadows cast as per the sample and to be placed in same order.  
+###### 3. Using sample or the placeholder sprite that's provided in the package, create new ones. Ensure the direction of shadows cast as per the sample and to be placed in same order.  
 
-######4. Point to the directory where image assets are stored in ```fourshadows.js``` settings.
+###### 4. Point to the directory where image assets are stored in ```fourshadows.js``` settings.
 
-######5. Include this in your CSS file:
+###### 5. Include this in your CSS file:
 ```CSS
 	.fs-icon-l {width: 512px; height: 512px;}
 	.fs-icon-m {width: 256px; height: 256px;}
